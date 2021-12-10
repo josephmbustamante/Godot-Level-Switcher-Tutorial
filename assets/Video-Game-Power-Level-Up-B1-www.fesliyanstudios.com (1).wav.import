@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Video-Game-Power-Level-Up-B1-www.fesliyanstudios.com (1).wav-db71cc94b36ea3a62bf31fe967b1e578.sample"
+
+[deps]
+
+source_file="res://assets/Video-Game-Power-Level-Up-B1-www.fesliyanstudios.com (1).wav"
+dest_files=[ "res://.import/Video-Game-Power-Level-Up-B1-www.fesliyanstudios.com (1).wav-db71cc94b36ea3a62bf31fe967b1e578.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
